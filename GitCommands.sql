@@ -30,3 +30,7 @@ git rm VS git rest
 ⦿ Genrally when we creaet a git repositary git creates the DEFAULT branch called MASTER branch.
  - We will maintain mutliple branches. Because there will be code integration issues if we allow all the         developers to commit in the same MASTER branch. So will will create the branch with that RELEASE name.
 ⦿ Pull Request :: We can merge one branch to another branch by using the concept called pull Request.. 
+  - tO MERGE the changes we will craete the pull request.
+◘ git SWITCH --> is used switch the branch. or in older version we use the git checkout.
+⦿ FETCH vs PULL -->
+  - fetch is used check the if there any changes in the remote repositary, while the pull command is used to download the remote repositary changes in the local repositary.
