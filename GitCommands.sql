@@ -33,4 +33,5 @@ git rm VS git rest
   - tO MERGE the changes we will craete the pull request.
 ◘ git SWITCH --> is used switch the branch. or in older version we use the git checkout.
 ⦿ FETCH vs PULL -->
-  - fetch is used check the if there any changes in the remote repositary, while the pull command is used to download the remote repositary changes in the local repositary.
+  - fetch is used check the if there any changes in the remote repositary, while the pull command is used to download the remote repositary changes in the local repositary. 
+  - When we use the fetch command if we nee to EXECUTE the MERGE command to bring those chanes into the localrepo.
