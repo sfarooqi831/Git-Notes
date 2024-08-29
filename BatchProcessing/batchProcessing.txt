@@ -1,0 +1,11 @@
+Batch processing is used to transfer the large amount of  data from source to desitination .
+JOb is actual task.
+
+Asyanc Call:::
+Generally batch processing follows the Synanc mechanism we can improve the batch procesing using the TaskExecutor[I]
+so that the job execute in aSyanc way.
+---
+
+Fault Tolerance :::
+  We can handle the batch processing in case of any error occur during processing using the in build mechanism.
+  Or using the Skip Ploicy [SkipPolicyy(I)] and Skip listener [SkipListener (I)].
